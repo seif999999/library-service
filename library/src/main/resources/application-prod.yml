@@ -1,0 +1,3 @@
+library:
+  name: Production Library
+  mode: production
